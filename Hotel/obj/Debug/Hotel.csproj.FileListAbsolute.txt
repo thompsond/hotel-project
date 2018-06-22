@@ -1,0 +1,11 @@
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\bin\Debug\MySql.Data.dll
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\Hotel.Form1.resources
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.Cache
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Darren\documents\visual studio 2017\Projects\Hotel\Hotel\obj\Debug\Hotel.GuestDialog.resources
