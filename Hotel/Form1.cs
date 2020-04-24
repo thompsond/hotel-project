@@ -21,7 +21,7 @@ namespace Hotel {
         }
 
         private void Form1_Load(object sender, EventArgs e) {
-            connectionString = "server=localhost;uid=root;database=hotel;password=Sodacan5100";
+            connectionString = "server=localhost;uid=root;database=hotel;password=<pass>";
             MySqlConnection conn = new MySqlConnection(connectionString);
             conn.Open();
             hotelDataSet = new DataSet();
